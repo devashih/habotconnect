@@ -1,0 +1,11 @@
+{
+  "name": "habotconnect-frontend-placeholder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo build placeholder"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
