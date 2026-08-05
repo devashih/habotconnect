@@ -3,5 +3,4 @@
 
 def health_check() -> str:
     """Simple placeholder function, intentionally well-formatted."""
-   
     return "ok"
